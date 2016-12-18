@@ -1,0 +1,4 @@
+**/main
+**/.pgmgr.json
+**/.pgmgr.test.json
+**/Dockerfile
