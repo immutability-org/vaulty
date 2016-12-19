@@ -4584,7 +4584,7 @@ body.mini-navbar.fixed-sidebar .logo-element {
 }
 .logo-name {
   color: #e6e6e6;
-  font-size: 60px;
+  font-size: 180px;
   font-weight: 800;
   letter-spacing: -10px;
   margin-bottom: 0;
@@ -7682,7 +7682,7 @@ body.skin-1 {
 /*
  *
  *   SKIN 2 - IMMUTABILITY - Responsive Admin Theme
- *   NAME - Inspinia Ultra
+ *   NAME - Immutability Ultra
  *
 */
 body.skin-2 {
